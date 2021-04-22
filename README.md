@@ -21,7 +21,7 @@
 ## Run tests
 
 ```sh
-npx
+npx tomi
 ```
 
 ## Author
