@@ -1,0 +1,25 @@
+{
+  "name": "npxcard",
+  "version": "1.0.0",
+  "description": "Tomi's npxcard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szobonyatomi/npxcard.git"
+  },
+  "author": "Tomi Szobonya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szobonyatomi/npxcard/issues"
+  },
+  "homepage": "https://github.com/szobonyatomi/npxcard#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.1",
+    "got": "^11.8.2",
+    "terminal-image": "^1.2.1"
+  }
+}
