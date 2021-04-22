@@ -1,6 +1,6 @@
 {
   "name": "npxcard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tomi's npxcard",
   "main": "index.js",
   "scripts": {
