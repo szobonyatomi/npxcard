@@ -3,7 +3,7 @@
  *
  * /index.js - Main Entry point
  *
- * coded by tomi@flatLand!
+ * coded by tomi@NortDock!
  * refactored at 22/04/2021
  */
 
